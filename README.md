@@ -1,5 +1,6 @@
 Telegram interactive chat bot
 📋 部署前准备
+
 1.Telegram 机器人
 
 向 @BotFather 发送 /newbot 创建机器人，获取 Bot Token
@@ -12,5 +13,5 @@ Telegram interactive chat bot
 替换Bot_Token
 替换ID
 
-4.文件地址栏输入cmd回车，运行已下命令
+4.文件地址栏输入cmd回车，运行以下命令
 python cckingchat_bot.py
